@@ -2,9 +2,10 @@
 role: Julio Vieira da Rocha
 weight: 18
 email: "juliovieiradarocha@gmail.com"
-interests: -Botânica 🍂
--Ciência de Dados 📊
--Genética 🧬
+interests:
+- Botânica 🍂
+- Ciência de Dados 📊
+- Genética 🧬
 
 organizations:
 - name: UFSC
