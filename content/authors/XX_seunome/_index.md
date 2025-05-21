@@ -1,12 +1,12 @@
 ---
-role: Seu Nome 
+role: Julio Vieira da Rocha
 weight: 18
-email: "seuemail@email.com"
+email: "juliovieiradarocha@gmail.com"
 interests:
--
--
--
--
+-Botânica 🍂
+-Ciência de Dados 📊
+-Genética 🧬
+
 organizations:
 - name: UFSC
   url: "https://ufsc.br/"
@@ -14,26 +14,19 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:seuemail@email.com'
+  link: 'juliovieiradarocha@gmail.com'
   
 - icon: lattes
   icon_pack: ai
-  link: seu lattes
-  
-- icon: researchgate
-  icon_pack: ai
-  link: seu researchgate # se você não tem exclua isso tudo
+  link: http://lattes.cnpq.br/2867778032828466
   
 - icon: github
   icon_pack: fab
-  link: seu github
+  link: https://github.com/juliovrocha520
   
-- icon: linkedin-in
-  icon_pack: fab
-  link: seu linkedin # se você não tem exclua isso tudo
   
 user_groups:
 - Estudantes de Graduação
 ---
 
-DESCRIÇÃO DE ATÉ 10 LINHAS
+Estudante de Agronomia na UFSC
