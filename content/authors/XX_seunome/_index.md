@@ -2,8 +2,7 @@
 role: Julio Vieira da Rocha
 weight: 18
 email: "juliovieiradarocha@gmail.com"
-interests:
--Botânica 🍂
+interests: -Botânica 🍂
 -Ciência de Dados 📊
 -Genética 🧬
 
